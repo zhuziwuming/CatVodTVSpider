@@ -32,6 +32,7 @@
 // 例如
 "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa",
 ```
+官方配置：https://c1n.cn/cat
 
 ### 如何在自定义配置中调用我们代码包中的Spider
 ----
